@@ -4,7 +4,7 @@
   <a href="https://github.com/aCodingCube/ScreenEllophant/releases/latest">
     <img src="https://img.shields.io/github/v/release/aCodingCube/ScreenEllophant?style=for-the-badge&color=3498db" alt="Latest Version">
   </a>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-8e44ad?style=for-the-badge" alt="Platforms">
+  <img src="https://img.shields.io/badge/Platform-Windows%20Linux-8e44ad?style=for-the-badge" alt="Platforms">
   <img src="https://img.shields.io/badge/Built%20with-Tauri-ffca28?style=for-the-badge&logo=tauri&logoColor=white" alt="Built with Tauri">
 </p>
 
