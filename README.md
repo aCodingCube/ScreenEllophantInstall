@@ -23,7 +23,7 @@ Wähle die passende Version für dein Betriebssystem aus den **[Latest Releases]
 
 ## 🚀 Schnellstart
 
-1. **Herunterladen:** Besuche die [Release-Seite](https://github.com/aCodingCube/ScreenEllophant/releases).
+1. **Herunterladen:** Besuche die [Release-Seite](https://github.com/EllophantLabs/ScreenEllophant/releases).
 2. **Installieren:** Starte die Datei und folge dem Setup-Assistenten.
 3. **Konfigurieren:** Wähle beim ersten Start deinen Medien-Ordner aus.
 
@@ -31,9 +31,9 @@ Wähle die passende Version für dein Betriebssystem aus den **[Latest Releases]
 
 ## 🔗 Wichtige Links
 
-* **🖥️ Quellcode (WIP):** [aCodingCube/ScreenEllophant](https://github.com/aCodingCube/ScreenEllophant)
-* **📖 Dokumentation & Hilfe:** [ScreenEllophant Help Center](https://github.com/aCodingCube/ScreenEllophantHelp/tree/main)
-* **🐛 Bug melden:** [Issue Tracker](https://github.com/aCodingCube/ScreenEllophant/issues)
+* **🖥️ Quellcode (WIP):** [aCodingCube/ScreenEllophant](https://github.com/EllophantLabs/ScreenEllophant)
+* **📖 Dokumentation & Hilfe:** [ScreenEllophant Help Center](https://github.com/EllophantLabs/ScreenEllophantHelp/tree/main)
+* **🐛 Bug melden:** [Issue Tracker](https://github.com/EllophantLabs/ScreenEllophant/issues)
 
 ---
 
